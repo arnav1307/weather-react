@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In this project I tried to make a Weather app use React JS basics, I used the Open Weather Map API to make calls to a restful api to return the current weather data. This uses the Modern Javascript Fetch AP along with React hooks and conditonals.
+
+Below I have attached the screenahots of the final product that has been delivered using the api
+
+![Screenshot (103)](https://user-images.githubusercontent.com/43823893/120937069-023beb80-c729-11eb-966c-abbd1dc7334c.png)
+![Screenshot (104)](https://user-images.githubusercontent.com/43823893/120937076-0a942680-c729-11eb-8cc2-061a4be36cc9.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
